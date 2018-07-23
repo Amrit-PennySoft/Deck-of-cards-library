@@ -30,11 +30,13 @@ To remove the current deck:
 Deck.clear_deck()
 
 
-Class Deck that holds all of the function, which has a constructor that creates empty arrays that later generate the deck.
+Class Deck that holds all of the functions, which has a constructor that creates empty arrays that later generate the deck.
+
 Then there is a function to generate the deck which recursively moves over our suits which creates a new card object for each of the values that are respective to the suits.
+
 Then there is a function to print everything to the console.
 Then there is a function to deal the deck.
 Then there is a function to return the most recent played card back to the deck.
 Finally there is a function that clears the deck.
 
-![card lib in action]()
+![card lib in action](https://github.com/Amrit-PennySoft/Deck-of-cards-library/blob/master/img.png)
